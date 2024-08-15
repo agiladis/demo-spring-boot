@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
-@Table(name = "spring-boot-todoapp")
+@Table(name = "todos")
 @Setter
 @Getter
 @NoArgsConstructor
